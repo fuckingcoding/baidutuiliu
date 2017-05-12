@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/apple/Desktop/Android/Android代码/demo百度推流/app/build/intermediates/res/merged/debug/layout/dialog_text_hint.xml",
+        "source": "/Users/apple/Desktop/Android/Android代码/demo百度推流/app/src/main/res/layout/dialog_text_hint.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/demo百度推流/app/build/intermediates/res/merged/debug/layout/dialog_text_hint_with_title.xml",
+        "source": "/Users/apple/Desktop/demo百度推流/app/src/main/res/layout/dialog_text_hint_with_title.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/demo百度推流/app/build/intermediates/res/merged/debug/layout/loading_animation.xml",
+        "source": "/Users/apple/Desktop/demo百度推流/app/src/main/res/layout/loading_animation.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/Android/Android代码/demo百度推流/app/build/intermediates/res/merged/debug/layout/loading_animation.xml",
+        "source": "/Users/apple/Desktop/Android/Android代码/demo百度推流/app/src/main/res/layout/loading_animation.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/demo百度推流/app/build/intermediates/res/merged/debug/layout/dialog_select_list.xml",
+        "source": "/Users/apple/Desktop/demo百度推流/app/src/main/res/layout/dialog_select_list.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/demo百度推流/app/build/intermediates/res/merged/debug/layout/dialog_text_hint.xml",
+        "source": "/Users/apple/Desktop/demo百度推流/app/src/main/res/layout/dialog_text_hint.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/Android/Android代码/demo百度推流/app/build/intermediates/res/merged/debug/layout/dialog_select_list.xml",
+        "source": "/Users/apple/Desktop/Android/Android代码/demo百度推流/app/src/main/res/layout/dialog_select_list.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/Android/Android代码/demo百度推流/app/build/intermediates/res/merged/debug/layout/activity_splash.xml",
+        "source": "/Users/apple/Desktop/Android/Android代码/demo百度推流/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/demo百度推流/app/build/intermediates/res/merged/debug/layout/activity_splash.xml",
+        "source": "/Users/apple/Desktop/demo百度推流/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/Android/Android代码/demo百度推流/app/build/intermediates/res/merged/debug/layout/activity_setting.xml",
+        "source": "/Users/apple/Desktop/Android/Android代码/demo百度推流/app/src/main/res/layout/activity_setting.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/demo百度推流/app/build/intermediates/res/merged/debug/layout/text_list_item.xml",
+        "source": "/Users/apple/Desktop/demo百度推流/app/src/main/res/layout/text_list_item.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/Android/Android代码/demo百度推流/app/build/intermediates/res/merged/debug/layout/activity_streaming_portrait.xml",
+        "source": "/Users/apple/Desktop/Android/Android代码/demo百度推流/app/src/main/res/layout/activity_streaming_portrait.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/demo百度推流/app/build/intermediates/res/merged/debug/layout/activity_streaming_landscape.xml",
+        "source": "/Users/apple/Desktop/demo百度推流/app/src/main/res/layout/activity_streaming_landscape.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/Android/Android代码/demo百度推流/app/build/intermediates/res/merged/debug/layout/dialog_text_hint_with_title.xml",
+        "source": "/Users/apple/Desktop/Android/Android代码/demo百度推流/app/src/main/res/layout/dialog_text_hint_with_title.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/Android/Android代码/demo百度推流/app/build/intermediates/res/merged/debug/layout/activity_streaming_landscape.xml",
+        "source": "/Users/apple/Desktop/Android/Android代码/demo百度推流/app/src/main/res/layout/activity_streaming_landscape.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/demo百度推流/app/build/intermediates/res/merged/debug/layout/activity_setting.xml",
+        "source": "/Users/apple/Desktop/demo百度推流/app/src/main/res/layout/activity_setting.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/demo百度推流/app/build/intermediates/res/merged/debug/layout/activity_streaming_portrait.xml",
+        "source": "/Users/apple/Desktop/demo百度推流/app/src/main/res/layout/activity_streaming_portrait.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/Android/Android代码/demo百度推流/app/build/intermediates/res/merged/debug/layout/text_list_item.xml",
+        "source": "/Users/apple/Desktop/Android/Android代码/demo百度推流/app/src/main/res/layout/text_list_item.xml"
+    }
+]

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/apple/Desktop/Android/Android代码/demo百度推流/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_0ed8fe8942eb981f199653337d0aa491371fbc58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Desktop/Android/Android代码/demo百度推流/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/apple/Desktop/Android/Android代码/demo百度推流/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_961abe1358bcda37feb8dbad00f3dab6fb11af4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Desktop/Android/Android代码/demo百度推流/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7ffb73be7ede25fad91526318253d6246e5f7092">
+        <dex dex="/Users/apple/Desktop/Android/Android代码/demo百度推流/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_be152604497897f04d673ba1d4dcf38a9f462078.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Desktop/Android/Android代码/demo百度推流/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/apple/Desktop/Android/Android代码/demo百度推流/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_6eb43d391206cde7bdda7ae5af8537eeab37dbfa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Desktop/Android/Android代码/demo百度推流/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="054a3dacf93539b3aefa443f74f2242f1a45cf82">
+        <dex dex="/Users/apple/Desktop/Android/Android代码/demo百度推流/app/build/intermediates/pre-dexed/debug/instant-run_6d0a2768c19226ae3188ecf95d4733471979d6fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Desktop/Android/Android代码/demo百度推流/app/libs/BRecorder.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ed2113ecb69254a035a711960ac318085625e7b0">
+        <dex dex="/Users/apple/Desktop/Android/Android代码/demo百度推流/app/build/intermediates/pre-dexed/debug/BRecorder_8c4a846066877168d3453ad27b3bb6600e1902f0.jar" />
+    </item>
+
+</items>

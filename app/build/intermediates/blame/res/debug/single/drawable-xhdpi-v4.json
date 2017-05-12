@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/apple/Desktop/Android/Android代码/demo百度推流/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/slc_btn_start.xml",
+        "source": "/Users/apple/Desktop/Android/Android代码/demo百度推流/app/src/main/res/drawable-xhdpi/slc_btn_start.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/Android/Android代码/demo百度推流/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/slc_list_item_color.xml",
+        "source": "/Users/apple/Desktop/Android/Android代码/demo百度推流/app/src/main/res/drawable-xhdpi/slc_list_item_color.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/demo百度推流/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/slc_list_item_color.xml",
+        "source": "/Users/apple/Desktop/demo百度推流/app/src/main/res/drawable-xhdpi/slc_list_item_color.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/demo百度推流/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/slc_btn_start.xml",
+        "source": "/Users/apple/Desktop/demo百度推流/app/src/main/res/drawable-xhdpi/slc_btn_start.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/Android/Android代码/demo百度推流/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/radio.xml",
+        "source": "/Users/apple/Desktop/Android/Android代码/demo百度推流/app/src/main/res/drawable-xhdpi/radio.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/demo百度推流/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/dialog_background.xml",
+        "source": "/Users/apple/Desktop/demo百度推流/app/src/main/res/drawable-xhdpi/dialog_background.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/demo百度推流/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/radio.xml",
+        "source": "/Users/apple/Desktop/demo百度推流/app/src/main/res/drawable-xhdpi/radio.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/Android/Android代码/demo百度推流/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/dialog_background.xml",
+        "source": "/Users/apple/Desktop/Android/Android代码/demo百度推流/app/src/main/res/drawable-xhdpi/dialog_background.xml"
+    }
+]
